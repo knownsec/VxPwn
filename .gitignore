@@ -1,0 +1,16 @@
+*.egg-info
+*.py[cod]
+*.swp
+.coverage
+.svn
+.tox
+bin
+build
+dist
+docs/_build
+include
+lib
+local
+man
+sdist
+.DS_Store
