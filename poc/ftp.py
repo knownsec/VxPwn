@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 # VxWorks version 5.5.1, WIND version 2.6
-# DOS on tcp port 111, Sun RPC
+# DOS on tcp 21, FTP
 # By dog2@404
 
 import socket
